@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mi
 
 - 🔭 Actualmente estudio en [Cesde](https://www.cesde.edu.co/) y me capacito como desarrollador Full Stack.
 
