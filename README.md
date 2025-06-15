@@ -23,7 +23,7 @@
 - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a>
 <br/>
 
-## 👨‍💻 Profile
+## 👨‍💻 Perfil
 
 <div align="center">
 
