@@ -82,12 +82,10 @@
   </a>
 </p>
 
-🔁 También puedes visitar mi cuenta personal en GitHub:
+## 🔁 También puedes visitar mi cuenta personal
 
 <p align="center">
   <a href="https://github.com/Rey-R06" target="_blank">
-    <img src="https://img.shields.io/badge/-Cuenta%20Secundaria-181717?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rey%20R06-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
-
-
