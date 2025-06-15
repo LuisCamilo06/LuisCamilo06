@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
+</p>
 <h1 align="center">Hola 👋, soy Luis Camilo</h1>
 <h3 align="center">Estudiante de desarrollo de software🌟.</h3>
 
@@ -30,11 +33,12 @@
 <table>
   <tr>
     <th align="center">Lenguajes / IDE</th>
-    <td align="center">
-      <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
-      <a href="#"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
-    </td>
+      <td align="center">
+        <a href="#"><img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /></a>
+        <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" /></a>
+      </td>
   </tr>
   <tr>
     <th align="center">Frameworks</th>
@@ -66,6 +70,24 @@
 
 ## 📫 Reach Me
 
-[![Gmail](https://img.shields.io/badge/-TuCorreo-e54448?style=flat&logo=Gmail&logoColor=white)](mailto:luiscamilorossiibarra@gmail.com)
+<p align="center">
+  <a href="mailto:luiscamilorossiibarra@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-e54448?style=flat&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/tu_usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://wa.me/57tu_numero" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
-  
+🔁 También puedes visitar mi cuenta personal en GitHub:
+
+<p align="center">
+  <a href="https://github.com/Rey-R06" target="_blank">
+    <img src="https://img.shields.io/badge/-Cuenta%20Secundaria-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
