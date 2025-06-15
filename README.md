@@ -82,7 +82,7 @@
   </a>
 </p>
 
-## 🔁 También puedes visitar mi cuenta personal
+## 🔁 Para más proyectos experimentales o personales, visita:
 
 <p align="center">
   <a href="https://github.com/Rey-R06" target="_blank">
